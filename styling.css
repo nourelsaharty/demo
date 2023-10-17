@@ -1,0 +1,42 @@
+.d .icon{
+    position: absolute;
+    right:40%;
+    
+
+}
+.d .i1{
+    position: absolute;
+    z-index: 1;
+    width: 15%;
+    left: 11%;
+    
+}
+.da .ic{
+    position: absolute;
+    right: 15%;
+
+}
+.da .i2{
+    position: absolute;
+    z-index: 1;
+    width: 15%;
+    left: 37%;
+
+}
+.z .ic1{
+    position: absolute;
+    left: 12%;
+    
+
+}
+.z .i3{
+    position: absolute;
+    z-index: 1;
+    width: 15%;
+    left: 64%;
+
+}
+body{
+    height: 200vh;
+    width: 100%;
+}
